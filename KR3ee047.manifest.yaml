@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ee047_000.yaml, hash: 'sha256:3ed1cb5e662fd391b1bd3dfce4b3f78d0026fc6f03e744dff6a796ef32cd2b50'}
+  - {seq: 0, filename: KR3ee047_000.yaml, hash: 'sha256:abd4d4f8d4d81082e7fcf044b1cb4ac847261813116684b82f5e517460e1fff6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee047_000.markers.yaml, hash: 'sha256:869d196167ceb31c4c5540e310770931eb3ffedd22eb047b8ce2da1753d9bf32'}
+  - {seq: 0, role: markers, filename: assets/KR3ee047_000.markers.yaml, hash: 'sha256:1c27bb856bc22feac64c14e3fe98bc1edd0712c96148218b40ffef2747dd1c0b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -941,7 +941,4 @@ table_of_contents:
   label: 附雷火針法
   type: section
   level: 1
-hash: sha256:d4cb70b33f606b3202be5b19f5abae812ec86ee15b709be4d647ccc582c76491
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:117b015a8a2201141ce34fc18692fc14ea37697381fba033d85e1b9d9165679c
