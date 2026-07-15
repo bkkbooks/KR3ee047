@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ee047/v1
 canonical_location: https://kanripo.org/bkk/KR3ee047/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 灸法秘傳
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ee047_000.yaml, hash: 'sha256:abd4d4f8d4d81082e7fcf044b1cb4ac847261813116684b82f5e517460e1fff6'}
+  - {seq: 0, filename: KR3ee047_000.yaml, hash: 'sha256:2d52cef378e94dd3f7dc9f048d9e680f3dc208f3272fb4186ff52b31eb3fc019'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee047_000.markers.yaml, hash: 'sha256:1c27bb856bc22feac64c14e3fe98bc1edd0712c96148218b40ffef2747dd1c0b'}
+  - {seq: 0, role: markers, filename: assets/KR3ee047_000.markers.yaml, hash: 'sha256:9a2f832644b55f41e0dbd4ee3a4ac7cf21b73c8d1a9b327c08a20a95ab8571bd'}
 table_of_contents:
 - ref:
     seq: 0
@@ -941,4 +941,7 @@ table_of_contents:
   label: 附雷火針法
   type: section
   level: 1
-hash: sha256:117b015a8a2201141ce34fc18692fc14ea37697381fba033d85e1b9d9165679c
+hash: sha256:1c83bcd6fd9f53f064bdb211cde4928a1e2ede9fdcc6c764c8fce0f2e7c4a07f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
