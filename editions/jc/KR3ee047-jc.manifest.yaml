@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ee047_000-jc.yaml, hash: 'sha256:abd4d4f8d4d81082e7fcf044b1cb4ac847261813116684b82f5e517460e1fff6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee047_000-jc.markers.yaml, hash: 'sha256:3a195860260ee4d38a9c91f3e3116e72f3360357269cbae3aa49a3aaeaf4d4b9'}
+  - {seq: 0, role: markers, filename: assets/KR3ee047_000-jc.markers.yaml, hash: 'sha256:c3df969e0c06804f9a5e01b28b03279bb94dec5eb2c8ec01590343b60563aebf'}
 table_of_contents:
 - ref:
     seq: 0
@@ -941,4 +941,4 @@ table_of_contents:
   label: 附雷火針法
   type: section
   level: 1
-hash: sha256:abd75524e3ed5573e941c211cff52995e64ee32cb3ce8652f0c4a8ae5872751a
+hash: sha256:5c699d5c41dbb59f9adae15d19abe4e0e282fdb8de9a917a950d547a44e3360e
